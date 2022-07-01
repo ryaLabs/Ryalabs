@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techgrr
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning about languages
-- 💞️ I’m looking to collaborate on real projects
+- 👀 I’m interested in working & learning
+- 🌱 I’m currently enthusiastic about languages
+- 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me via github
 
 <!---
